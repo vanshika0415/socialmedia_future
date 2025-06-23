@@ -1,5 +1,4 @@
 # Social Media App
-# 🚀 Social Media App
 
 A minimal social media web app built with **Next.js**, featuring:
 - 🔐 Authentication via **Firebase**
